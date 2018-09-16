@@ -1,0 +1,8 @@
+# Security is a Thing
+
+More and more devices are connected to the internet: from pacemakers, two-ton vehicles and voice recognition smart speakers to thermostats and smoke detectors. We rely on them to survive, work and play; yet all the collected data is stored somewhere in the cloud and companies are collecting all they can to make a profit / market out of it. And that’s where it gets scary…
+
+In this talk I’ll present to you an overview of security and privacy challenges that must be faced and solved when creating new Things for the Internet of Things. Attackers can intercept communications, re-program hardware, spy on users and steal data. We'll discuss why users should be wary of Things violating their privacy and why Things are inherently insecure. You’ll see a couple of examples of attack vectors and learn about some risk mitigation strategies including cryptography, pseudonymization, trust borders and hardware design tips.
+
+About Vasco Veloso (Software Developer / Architect at Code Nomads)
+Vasco brings teams together to produce well-crafted software. He enjoys sharing knowledge by teaching and learning. On top of that, he likes to design software and things. He worked in telecommunications and in embedded system development, which got him worried... In his spare time, he’s discovering the city of Amsterdam, loves photography and is very much interested in the aviation industry.
